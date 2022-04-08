@@ -1,0 +1,35 @@
+#logo{
+    padding-left: 5%;
+    margin-right: 19%;
+}
+
+.navbar ul{
+    padding-top: 0.5%;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    color: white;
+    
+    justify-content: center;
+    
+    border-radius: 30px;
+}
+
+.navbar li{
+    list-style: none;    
+    padding: 10px 15px;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: chartreuse;
+}
+
+
+.nside li{
+    margin:7%;
+}
